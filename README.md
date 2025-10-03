@@ -1,4 +1,13 @@
-## Hi there 👋
+## Former translator, present Computer Science student, future cybersecurity professional
+- Select hard skills:
+  - Python, C#, SQL, R
+  - HTML, CSS
+  - VMware, pgAdmin, Postman
+  - Visual Studio, VS Code, Spyder
+- Select soft skills:
+  - Writing
+  - Critical thinking
+  - Communication
 
 <!--
 **yksityinen/yksityinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
