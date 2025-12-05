@@ -1,8 +1,8 @@
-## Former translator, present Computer Science student, future cybersecurity professional
+## Former translator, present computer science student, future cybersecurity professional
 - Select hard skills:
-  - Python, C#, SQL, R
-  - HTML, CSS
-  - VMware, pgAdmin, Postman
+  - Python, C#, SQL, Bash, R
+  - HTML, CSS, JavaScript
+  - VMware, pgAdmin/PostgreSQL, Postman
   - Visual Studio, VS Code, Spyder
 - Select soft skills:
   - Writing
